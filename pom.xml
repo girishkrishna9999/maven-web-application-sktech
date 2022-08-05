@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://3.111.218.176:8081/repository/maven-releases/</url>
+	      <url>http://13.232.34.243:8081/repository/kamal_release/url>
 	    </repository>
 	
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.111.218.176:8081/repository/maven-snapshots/</url>
+	      <url>http://13.232.34.243:8081/repository/kamal_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
