@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.164.51:8081/repository/kamal_release/</url>
+	      <url>http://3.111.197.129:8081/repository/nithin_release/</url>
 	    </repository>
 	
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.164.51:8081/repository/kamal_snapshot/</url>
+	      <url>http://3.111.197.129:8081/repository/nithin_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
